@@ -2,7 +2,7 @@
 
 🎓 I'm a recent graduate of Georgetown University's Master of International Development Policy program, passionate about using data to inform policy and social change.  
 
-🗺️ My main interests lie in **GIS applications**, **impact evaluation**, and **experimental research design** for international development — especially across Latin America & the Caribbean, MENA, and Southeast Asia.  
+🗺️ My main interests lie in **Monitoring & Evaluation**, **GIS**, and **Data Science** applications for LMICs.  
 
 🧪 I’m currently exploring **spatial regression modeling**, predictive analytics, and integrating remote sensing into program evaluation workflows.  
 
