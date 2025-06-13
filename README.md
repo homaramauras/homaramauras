@@ -10,7 +10,7 @@
 
 📫 Reach me at: **homaramauras@gmail.com**  
 😄 Pronouns: **They/Them**  
-🦖 Fun fact: I *love* dinosaurs — and yes, I have a favorite (it's the Stegosaurus).
+🦖 Fun fact: I *love* dinosaurs — and yes, I have a favorite (it's the Carnotaurus).
 
 🔍 Selected tools & languages:  
 `STATA (advanced)` | `R (advanced)` | `Python (beginner)` | `GitHub` | `Google Earth Engine`  
